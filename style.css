@@ -308,7 +308,7 @@ nav {
   flex: 0 0 auto;
   height: 35vh;
   width: 25vw;
-  background-image: url(/assets/image1.webp);
+  background-image: url(./assets/image1.webp);
   background-size: cover;
   background-position: center;
   margin-left: 2vw;
@@ -331,7 +331,7 @@ nav {
   flex: 0 0 auto;
   height: 35vh;
   width: 25vw;
-  background-image: url(/assets/image3.webp);
+  background-image: url(./assets/image3.webp);
   background-size: cover;
   background-position: center;
 
@@ -342,7 +342,7 @@ nav {
   flex: 0 0 auto;
   height: 35vh;
   width: 25vw;
-  background-image: url(/assets/image4.webp);
+  background-image: url(./assets/image4.webp);
   background-size: cover;
   background-position: center;
   margin-top: 35vh;
@@ -352,7 +352,7 @@ nav {
   flex: 0 0 auto;
   height: 35vh;
   width: 25vw;
-  background-image: url(/assets/image5.webp);
+  background-image: url(./assets/image5.webp);
   background-size: cover;
   background-position: center;
 }
@@ -374,7 +374,7 @@ nav {
   flex: 0 0 auto;
   height: 35vh;
   width: 25vw;
-  background-image: url(/assets/image7.webp);
+  background-image: url(./assets/image7.webp);
   background-size: cover;
   background-position: center;
 }
@@ -383,7 +383,7 @@ nav {
   flex: 0 0 auto;
   height: 35vh;
   width: 25vw;
-  background-image: url(/assets/image8.webp);
+  background-image: url(./assets/image8.webp);
   background-size: cover;
   background-position: center;
   margin-top: 35vh;
@@ -445,7 +445,7 @@ nav {
 .img1 {
   height: 60vh;
   width: 40vw;
-  background-image: url(/assets/uplift1.webp);
+  background-image: url(./assets/uplift1.webp);
   background-size: cover;
   background-position: center;
 }
@@ -453,7 +453,7 @@ nav {
 .img2 {
   height: 60vh;
   width: 40vw;
-  background-image: url(/assets/uplift2.webp);
+  background-image: url(./assets/uplift2.webp);
   background-size: cover;
   background-position: center;
 }
@@ -461,7 +461,7 @@ nav {
 .img3 {
   height: 60vh;
   width: 40vw;
-  background-image: url(/assets/uplift3.webp);
+  background-image: url(./assets/uplift3.webp);
   background-size: cover;
   background-position: center;
 }
